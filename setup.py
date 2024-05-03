@@ -34,6 +34,7 @@ setuptools.setup(
     author_email='nikhilojha1895@gmail.com',
     description='Quart SAML integration',
     long_description=long_description,
+    long_description_content_type='text/markdown',
     py_modules=['quart_saml'],
     include_package_data=True,
     zip_safe=False,

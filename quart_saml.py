@@ -10,7 +10,7 @@ import saml2.config
 import saml2.metadata
 import urllib.parse as urlparse
 
-__version__ = '0.0.2'
+__version__ = '0.0.3'
 
 log = logging.getLogger(__name__)
 

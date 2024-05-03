@@ -72,7 +72,7 @@ This project is based on the [Flask-SAML](https://pypi.org/project/Flask-SAML/) 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/nojha95/quart_saml/blob/main/LICENSE.txt) file for details.
 
 
 
